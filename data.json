@@ -1,0 +1,42 @@
+[
+  {
+    constituency Coimbatore South,
+    district Coimbatore,
+    candidate Vanathi Srinivasan,
+    party BJP,
+    alliance NDA,
+    status Sitting MLA
+  },
+  {
+    constituency Madurai Central,
+    district Madurai,
+    candidate PTR Palanivel Thiaga Rajan,
+    party DMK,
+    alliance DMK Alliance,
+    status Sitting MLA
+  },
+  {
+    constituency Chennai Central,
+    district Chennai,
+    candidate Dayanidhi Maran,
+    party DMK,
+    alliance DMK Alliance,
+    status MP
+  },
+  {
+    constituency Salem West,
+    district Salem,
+    candidate Arun Kumar,
+    party AIADMK,
+    alliance AIADMK Alliance,
+    status Expected
+  },
+  {
+    constituency Tiruchirappalli East,
+    district Trichy,
+    candidate S. Inigo Irudayaraj,
+    party DMK,
+    alliance DMK Alliance,
+    status Sitting MLA
+  }
+]
